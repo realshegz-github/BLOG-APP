@@ -1,0 +1,8 @@
+.navbar{
+    position: sticky;
+    top:0;
+    z-index:  5000;
+}
+.home-blog{
+    padding: 20px 100px ;
+}
